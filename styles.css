@@ -1,0 +1,139 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+.menu_style :hover {
+   background: #b9bfc6;
+}
+/* Initial background */
+.section1 {
+    height: 855px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: url("http://i.imgur.com/ZaxIZuK.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.transparency {
+    rgba(0,0,0, 0.3);
+    height: 855px;
+}
+
+#section1 h1 {
+    font-size: 1000%;
+}
+
+#section1 h4 {
+    font-size: 36px;
+}
+
+.section2 {
+    padding: 50px 0;
+    background: url("http://i.imgur.com/78YgD9i.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 855px;
+}
+
+.section2 h2, .section2 p {
+    color: #fff;
+    padding-left: 5px;
+}
+
+
+
+.section4 {
+    padding: 50px 0;
+    background: url("http://i.imgur.com/iqHPTQl.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 1000px;
+}
+
+.section4 h2, .section4 h4, .section4 p, .section4 h3{
+    color: #fff;
+    text-shadow: #000 0px 0px 1px;
+}
+
+.thumbnail:hover {
+    transition: 0.5s;
+    box-shadow: 5px 10px 5px rgba(0,0,0,0.9);
+}
+
+
+.section3 {
+    padding: 50px 0;
+    background: url("http://i.imgur.com/ub2x54Y.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 855px;
+}
+
+.section3 .s3buttons {
+    padding: 5px;
+    margin: 5px;
+}
+/* Words on main page */
+
+.intro_title {
+    font-variant: small-caps;
+    font-family: 'Lora', serif;
+    font-size: 700%;
+    font-weight: normal;
+    line-height: 250%;
+}
+
+.intro_subtitle {
+    
+}
+
+.contact_buttons {
+    text-shadow: 1px 1px 1px rgba(255,255,255,10);
+    box-shadow: 3px 3px rgba(0,0,0,0.5);
+    letter-spacing: 2px;
+    
+    /* border radius */
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    
+    -moz-box-shadow: 0 0 1px #fff inset;
+    -webkit-box-shadow: 0 0 1px #fff inset;
+    box-shadow: 0 0 1px #fff inset;
+}
+
+.contacts {
+    list-style: none;
+}
+
+.footski {
+    background: #cbcfd2;
+}
+
+.personal-pic {
+    
+}
+
+.footski {
+    padding-top: 25px;
+}
+.footski p > span {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.footer_list span {
+    padding-right: 5px;
+}
+.footer_list a {
+    text-decoration: none;
+    color: #25618d;
+}
+
+.footski a:hover {
+    color: #7a4b24;
+}
+span.glyphicon-minus {
+    font-size: 0.8em;
+}
+.very_bottom {
+    padding-bottom: 25px;
+}
