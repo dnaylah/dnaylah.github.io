@@ -99,7 +99,25 @@ html {
     -webkit-box-shadow: 0 0 1px #fff inset;
     box-shadow: 0 0 1px #fff inset;
 }
-
+#skill_headings {
+    color:red;
+    font-weight:bold;
+    padding-top:5px;
+}
+#skills_list,  #skills_list li{
+    display: inline;
+    list-style-type: none;
+}
+.custom_text, .custom_text div .caption h3, .custom_text div .caption p,
+.custom_text h2, .custom_text p, .custom_text ul, .custom_text li {
+    color: #fff;
+    text-shadow: #000 1px 1px 1px;
+    -webkit-font-smoothing: antialiased;
+}
+.button_header {
+    padding-left: 5px;
+    padding-right: 5px;
+}
 .contacts {
     list-style: none;
 }
