@@ -1,3 +1,1 @@
-[dnaylah.github.io](dnaylah.github.io)
-
-Portfolio Page for Daniel Naylor
+Go to dnaylah.github.io to see portfolio page.
